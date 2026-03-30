@@ -3,9 +3,5 @@ class LinkItem {
   final String title;
   final String url;
 
-  const LinkItem({
-    required this.id,
-    required this.title,
-    required this.url,
-  });
+  const LinkItem({required this.id, required this.title, required this.url});
 }

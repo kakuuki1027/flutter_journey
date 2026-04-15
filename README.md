@@ -17,30 +17,6 @@
 
 マネージャーやレビュー担当者にアプリの内容を短時間で伝えるために、主要画面のキャプチャを README に掲載するのがおすすめです。画像は `docs/images/` に保存すると、アプリ本体のアセットと分けて管理できます。
 
-### ログインページ
-
-![ログインページ](docs/images/login-page.png)
-
-### ホームページ
-
-![ホームページ](docs/images/home-page.png)
-
-### リポジトリ学習ページ
-
-![リポジトリ学習ページ](docs/images/items-page.png)
-
-### 学習詳細ページ
-
-![学習詳細ページ](docs/images/item-detail-page.png)
-
-### 動画ページ
-
-![動画ページ](docs/images/videos-page.png)
-
-### バッジ一覧ページ
-
-![バッジ一覧ページ](docs/images/badges-page.png)
-
 ## 起動方法
 
 ### 前提
